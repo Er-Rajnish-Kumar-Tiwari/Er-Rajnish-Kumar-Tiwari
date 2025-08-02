@@ -95,17 +95,6 @@ I am a passionate beginner software developer with a strong interest in coding a
 - **LinkedIn:** [linkedin.com/in/rajnish-kumar-tiwari-8661522b0](http://www.linked.com/in/rajnis h-kumar-tiwari-8661522b0/)
 - **Portfolio:** [biodata-5zse.onrender.com](https://biodata-5zse.onrender.com/)
 
----
-
-## 🧑 Personal Details
-
-- **Date of Birth:** 20-05-2006
-- **Father's Name:** Kamlesh Tiwari
-- **Marital Status:** Single
-- **Nationality:** Indian
-- **Address:** Saran, Bihar (841411)
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30"/>
