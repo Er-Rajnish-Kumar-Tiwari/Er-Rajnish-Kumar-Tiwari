@@ -1,16 +1,112 @@
-## Hi there 👋
+# 🚀 Rajnish Kumar Tiwari
 
-<!--
-**Er-Rajnish-Kumar-Tiwari/Er-Rajnish-Kumar-Tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <h2>Beginner Software Developer | MERN Stack Enthusiast</h2>
+  <p>
+    <b>📧 Email:</b> rajnishkumartiwari260@gmail.com <br>
+    <b>📱 Phone:</b> +91-95729-73654 <br>
+    <b>🌏 Location:</b> Saran, Bihar (841411), India <br>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I am a passionate beginner software developer with a strong interest in coding and building websites. I have learned programming languages such as **HTML, CSS, JavaScript, React, and Node.js**. I love learning new things and solving problems. I am looking for opportunities to grow my skills and collaborate with great teams.
+
+---
+
+## 🎓 Education
+
+| Year         | Degree/Certificate                            | Institution                            | Remark         |
+|--------------|-----------------------------------------------|----------------------------------------|---------------|
+| 2023-2027    | Bachelor in Computer Science Engineering      | Guru-Kashi-University                  | Pursuing      |
+| 2021-2023    | 12th in Science                              | Bihar School Examination Board          | 69%           |
+| 2021-2022    | Adv. Diploma in Computer Application         | Global Institute of Information Tech.   | 79%           |
+| 2020-2021    | 10th                                         | Bihar School Examination Board          | 80%           |
+
+---
+
+## 💼 Projects
+
+### 1. Tanish LMS (Learning Management System)  
+> Web-based LMS built with MERN stack. Students can access courses, watch lectures & track progress. Admins manage content and monitor activities.  
+> **[GitHub Repo](https://github.com/Er-Rajnish-Kumar-Tiwari/LMS/)** | **[Live Demo](https://lms-786c.onrender.com/)**
+
+---
+
+### 2. Tanish Food App  
+> Food delivery app built with MERN stack. Users browse items, add to cart, place orders. Admins manage menu and track orders.  
+> **[GitHub Repo](https://github.com/Er-Rajnish-Kumar-Tiwari/Food)** | **[Live Demo](https://food-fronted.onrender.com/)**
+
+---
+
+### 3. Tanish Doctor Appointment Booking System  
+> MERN-based web app for booking doctor appointments. Patients browse doctors, manage bookings. Admins/doctors update schedules.  
+> **[GitHub Repo](https://github.com/Er-Rajnish-Kumar-Tiwari/DABS/)** | **[Live Demo](https://doctor-booking-system-jdde.onrender.com/)**
+
+---
+
+## 🛠️ Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, J-Query, Typescript
+- **Backend:** Node.js, Express.js, Mongoose-DB
+- **Programming Languages:** Python, Java, C, C++
+- **Database:** SQL, MongoDB
+- **Other:** Git, GitHub, OOPS, DSA
+
+---
+
+## 👨‍💻 Experience
+
+- Software Development Engineer Intern @ NTS Nihon Global Pvt Ltd (May 2025 - July 2025)
+
+---
+
+## 🏆 Certifications
+
+- Web Designer @ Guru Kashi University
+- Modern C++ @ IIT Kharagpur
+- Web Development @ Udemy
+- Big Data & Data Science @ NIELIT
+
+---
+
+## 🌟 Interests
+
+- 📚 Reading Books
+- ✈️ Travelling
+- 🏏 Playing Cricket
+
+---
+
+## 🌐 Languages
+
+- English
+- Hindi
+
+---
+
+## 📂 Profile Links
+
+- **GitHub:** [github.com/Er-Rajnish-Kumar-Tiwari](https://github.com/Er-Rajnish-Kumar-Tiwari/)
+- **LinkedIn:** [linkedin.com/in/rajnish-kumar-tiwari-8661522b0](http://www.linked.com/in/rajnis h-kumar-tiwari-8661522b0/)
+- **Portfolio:** [biodata-5zse.onrender.com](https://biodata-5zse.onrender.com/)
+
+---
+
+## 🧑 Personal Details
+
+- **Date of Birth:** 20-05-2006
+- **Father's Name:** Kamlesh Tiwari
+- **Marital Status:** Single
+- **Nationality:** Indian
+- **Address:** Saran, Bihar (841411)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30"/>
+</div>
