@@ -92,7 +92,7 @@ I am a passionate beginner software developer with a strong interest in coding a
 ## 📂 Profile Links
 
 - **GitHub:** [github.com/Er-Rajnish-Kumar-Tiwari](https://github.com/Er-Rajnish-Kumar-Tiwari/)
-- **LinkedIn:** [linkedin.com/in/rajnish-kumar-tiwari-8661522b0](https://www.linked.com/in/rajnis h-kumar-tiwari-8661522b0/)
+- **LinkedIn:** [www.linkedin.com/in/rajnish-kumar-tiwari-8661522b0](https://www.linkedin.com/in/rajnish-kumar-tiwari-8661522b0)
 - **Portfolio:** [biodata-5zse.onrender.com](https://biodata-5zse.onrender.com/)
 
 
