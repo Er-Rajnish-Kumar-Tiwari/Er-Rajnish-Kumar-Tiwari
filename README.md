@@ -61,7 +61,7 @@ I am a passionate beginner software developer with a strong interest in coding a
 
 ## 👨‍💻 Experience
 
-- Software Development Engineer Intern @ NTS Nihon Global Pvt Ltd (May 2025 - July 2025)
+- Software Development Engineer Intern @ NTS Nihon Global Pvt Ltd (May 2025 - Present)
 
 ---
 
