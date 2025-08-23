@@ -47,7 +47,7 @@ I am a passionate beginner software developer with a strong interest in coding a
 > MERN-based web app for booking doctor appointments. Patients browse doctors, manage bookings. Admins/doctors update schedules.  
 > **[GitHub Repo](https://github.com/Er-Rajnish-Kumar-Tiwari/DABS/)** | **[Live Demo](https://doctor-booking-system-jdde.onrender.com/)**
 
-###4. Tanish Chat App
+### 4. Tanish Chat App
 > Real-time chat application built with React.js, Node.js, Firebase & Tailwind CSS. Users can send/receive messages, view online status, and check last seen.
 > > **[GitHub Repo](https://github.com/Er-Rajnish-Kumar-Tiwari/Chat-App/)** | **[Live Demo](https://tanish-chat-app.onrender.com)**
 ---
