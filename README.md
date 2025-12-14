@@ -60,10 +60,10 @@
 
 ## 👨‍💻 Professional Experience  
 
-- **Software Development Engineer Intern** @ **NTS Nihon Global Pvt Ltd** (May 2025 – Present)  
+- **Software Development Engineer Intern** @ **NTS Nihon Global Pvt Ltd** (May 2025 – October 2025)  
 - **MERN Stack Developer Intern** @ **CommuSync Pvt Ltd** (6 Weeks)  
 - **Application Developer Intern** @ **CREOMIND INNOVATIONS PRIVATE LIMITED** (5 Weeks)
-- **Full Stack Web Developer Intern** @ **Stefax Pvt Ltd** (August 2025 - Present)  
+- **Full Stack Web Developer Intern** @ **Stefax IT services** (August 2025 - Present)  
 
 ---
 
